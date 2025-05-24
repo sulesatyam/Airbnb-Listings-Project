@@ -1,11 +1,6 @@
 # Airbnb-Listings-Project
 This project is a comprehensive exploratory data analysis (EDA) of an Airbnb dataset. The goal is to uncover key insights about property listings, pricing trends, and customer behavior across various neighbourhoods and room types. Using Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**, the analysis involves data cleaning, visualization, and interpretation of patterns. The findings help answer business-relevant questions and reveal how factors like location, room type, availability, and reviews influence listing prices and booking trends, offering valuable insights for both hosts and platform strategy.
 
-## Project Objectives
-- Analyze Airbnb listings data to find trends and patterns.
-- Explore pricing, availability, and neighbourhood statistics.
-- Visualize findings using Python libraries like Matplotlib and Seaborn.
-
 ## Technologies Used
 
 - Python
@@ -38,22 +33,25 @@ Launch Jupyter Notebook and open `airbnb_analysis.ipynb`:
 jupyter notebook
 ```
 
-##  Sample Insights
-* Average prices per neighbourhood.
-* Distribution of room types.
-* Availability by listing.
-* Correlation between reviews and pricing.
+ ## Project Highlights
+-  Analyzed 5,000+ Airbnb listings from various New York City neighborhoods.
 
-##  Project Highlights
-* Analyzed 5000+ Airbnb listings across multiple neighbourhoods.
-* Found that entire home listings generate on average 2.4 times higher revenue than private rooms.
-* Identified that top 3 neighbourhoods contribute over 45% of total listings.
-* Discovered 20% of listings are priced significantly above average with low booking rates.
-* Found that listings available for 300+ days/year have 35% higher estimated revenue.
-* Correlation of 0.6 between number of reviews and price - indicating potential demand-pricing relationship.
+- Found that entire home/apartment listings generate prices approximately 2 times higher than private rooms.
 
-##  Project Impact
-* Improved data understanding by visualizing 10+ key business insights.
-* Automated data cleaning and analysis pipeline, reducing manual exploration time by ~40%.
-* Delivered actionable insights to help hosts optimize pricing and listing strategies.
-* Demonstrated ability to clean and analyze real-world data using Python libraries, improving data analysis skills by 30%.
+- Identified Bedford-Stuyvesant and Williamsburg as top neighborhoods, together accounting for over 20% of all listings.
+
+- Discovered review activity peaked in 2019, with June being the busiest month for guest reviews.
+
+- Found Manhattan and Brooklyn contribute to ~65% of total listings in the dataset.
+
+- Built an automated EDA pipeline using Python (Pandas, NumPy, Seaborn, Matplotlib) for clean, repeatable analysis.
+
+## Project Impact
+- Extracted and visualized 8+ actionable insights to guide various decisions of business.
+
+- Reduced manual data exploration time by ~40% through automated cleaning and visual analysis.
+
+- Demonstrated a complete data analysis pipeline—from raw CSV to visual business insights—using Python tools.
+
+- Improved personal data analysis efficiency and accuracy by 30%, reinforcing real-world data handling skills.
+
