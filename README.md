@@ -1,57 +1,98 @@
 # Airbnb-Listings-Project
-This project is a comprehensive exploratory data analysis (EDA) of an Airbnb dataset. The goal is to uncover key insights about property listings, pricing trends, and customer behavior across various neighbourhoods and room types. Using Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**, the analysis involves data cleaning, visualization, and interpretation of patterns. The findings help answer business-relevant questions and reveal how factors like location, room type, availability, and reviews influence listing prices and booking trends, offering valuable insights for both hosts and platform strategy.
+
+This project is a comprehensive exploratory data analysis (EDA) of an Airbnb dataset. The goal is to uncover key insights about property listings, pricing trends, and customer behavior across various neighbourhoods and room types. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the analysis involves data cleaning, visualization, and interpretation of patterns. The findings help answer business-relevant questions and reveal how factors like location, room type, availability, and reviews influence listing prices and booking trends, offering valuable insights for both hosts and platform strategy.
+
+
 
 ## Technologies Used
 
-- Python
-- Jupyter Notebook
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- Python  
+- Jupyter Notebook  
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
 
-## How to Use 
-### 1. Clone the repository
+
+
+## How to Use
+
+1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/Airbnb-Listings-Project.git
-cd airbnb-bookings-project
+cd Airbnb-Listings-Project
 ````
 
-### 2. Install dependencies
-
-It's recommended to use a virtual environment:
+2. **Install dependencies**
+   It's recommended to use a virtual environment:
 
 ```bash
-pip install -r requirements.txt
+pip install jupyter pandas numpy matplotlib seaborn
 ```
 
-### 3. Run the notebook
-
-Launch Jupyter Notebook and open `airbnb_analysis.ipynb`:
+3. **Run the notebook**
+   Launch Jupyter Notebook and open `airbnb_analysis.ipynb`:
 
 ```bash
 jupyter notebook
 ```
 
- ## Project Highlights
--  Analyzed 5,000+ Airbnb listings from various New York City neighborhoods.
 
-- Found that entire home/apartment listings generate prices approximately 2 times higher than private rooms.
 
-- Identified Bedford-Stuyvesant and Williamsburg as top neighborhoods, together accounting for over 20% of all listings.
+## Visualizations
 
-- Discovered review activity peaked in 2019, with June being the busiest month for guest reviews.
+* Distribution of Listing Price
+* Distribution of Room Types
+* Number of Listings by Neighbourhood Group
+* Evolution of Number of Reviews over Time
+* Top 10 Neighbourhoods by Listings
+* Monthly Review Activity
+* Price by Cancellation Policy
 
-- Found Manhattan and Brooklyn contribute to ~65% of total listings in the dataset.
 
-- Built an automated EDA pipeline using Python (Pandas, NumPy, Seaborn, Matplotlib) for clean, repeatable analysis.
+
+## Project Highlights
+
+* Analyzed 100,000+ Airbnb listings from various New York City neighbourhoods.
+* Identified Bedford-Stuyvesant and Williamsburg as top neighbourhoods, together accounting for over 6,000 listings.
+* Discovered review activity peaked in 2019, with June being the busiest month for guest reviews.
+* Found Manhattan and Brooklyn contribute to more than 50% of total listings in the dataset.
+* Built an automated EDA pipeline using Python (Pandas, NumPy, Seaborn, Matplotlib) for clean, repeatable analysis.
+
+
 
 ## Project Impact
-- Extracted and visualized 8+ actionable insights to guide various decisions of business.
 
-- Reduced manual data exploration time by ~40% through automated cleaning and visual analysis.
+* Extracted and visualized 8+ actionable insights to guide business decisions.
+* Reduced manual data exploration time by \~40% through automated cleaning and visual analysis.
+* Demonstrated a complete data analysis pipeline—from raw CSV to visual business insights—using Python tools.
+* Improved personal data analysis efficiency and accuracy by 30%, reinforcing real-world data handling skills.
 
-- Demonstrated a complete data analysis pipeline—from raw CSV to visual business insights—using Python tools.
 
-- Improved personal data analysis efficiency and accuracy by 30%, reinforcing real-world data handling skills.
 
+## Future Work
+
+* **Predictive Modeling**
+  Build a machine learning model to suggest optimal pricing based on seasonality, location, and demand.
+
+* **Sentiment Analysis**
+  Extract insights from guest reviews using NLP to understand what guests love/hate about properties.
+
+* **Multi-City Expansion**
+  Replicate the analysis for other major markets (e.g., Paris, Tokyo) to compare global trends.
+
+* **Real-Time Data Pipeline**
+  Automate data collection and analysis for up-to-date insights using Airflow or similar tools.
+
+
+
+
+
+
+## Contact
+
+**Developed by**: Satyam Sule
+
+**Email**: [sulesatyam68@gmail.com](mailto:sulesatyam68@gmail.com)
+
+**LinkedIn**: [Satyam Sule](https://www.linkedin.com/in/satyam-sule)
