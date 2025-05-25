@@ -95,4 +95,4 @@ jupyter notebook
 
 **Email**: [sulesatyam68@gmail.com](mailto:sulesatyam68@gmail.com)
 
-**LinkedIn**: [Satyam Sule](https://www.linkedin.com/in/satyam-sule)
+**LinkedIn**: www.linkedin.com/in/satyamsule
