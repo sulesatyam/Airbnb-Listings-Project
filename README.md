@@ -85,8 +85,7 @@ jupyter notebook
   
 ## Dataset Source
 The dataset used for this project can be accessed via the following links:
-- [ Download zipped dataset (GitHub)](https://github.com/sulesatyam/Airbnb_Open_Data/raw/main/Airbnb_Open_Data.zip)  
-- [ Access full dataset (Google Drive)](https://drive.google.com/your-shareable-link)
+- [ Access full dataset ](https://drive.google.com/file/d/1Dd8ISH1Gk7Wwq2k8iLIenAMvURjEx2d8/view?usp=drive_link)
 
 ## Contact
 
