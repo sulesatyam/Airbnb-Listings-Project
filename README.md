@@ -38,16 +38,15 @@ jupyter notebook
 ```
 
 
-
 ## Visualizations
 
-* Distribution of Listing Price
-* Distribution of Room Types
-* Number of Listings by Neighbourhood Group
-* Evolution of Number of Reviews over Time
-* Top 10 Neighbourhoods by Listings
-* Monthly Review Activity
-* Price by Cancellation Policy
+- [Distribution of Listing Price](https://drive.google.com/file/d/1bPyno0jRvfjRKX8nXDA1bKHJg2BGAN_1/view?usp=sharing)
+- [Distribution of Room Types](https://drive.google.com/file/d/14hCUddsTCFnszqDXCakNXVfNtpTWcT4s/view?usp=sharing)
+- [Number of Listings by Neighbourhood Group](https://drive.google.com/file/d/13MBngVT6vPA7BmU2Oi9no6nxxFuCUJXx/view?usp=sharing)
+- [Evolution of Number of Reviews over time](https://drive.google.com/file/d/10k0kkO0jaQPQ8j8TEFg_qTJQLE8uwVL4/view?usp=sharing)
+- [Top 10 Neighbourhoods by Listings](https://drive.google.com/file/d/1OMKM3gAfqejOyZ44ksX3trThS5RRNINg/view?usp=sharing)
+- [Monthly Review Activity](https://drive.google.com/file/d/1Ng30LpupQk07SM8OfjI3FZxlBk4xfyX3/view?usp=sharing)
+- [Price by Cancellation Policy](https://drive.google.com/file/d/18xiRDbkul-2yu3idCVbGrcPoSOGdFV66/view?usp=sharing)
 
 
 
@@ -83,11 +82,11 @@ jupyter notebook
 
 * **Real-Time Data Pipeline**
   Automate data collection and analysis for up-to-date insights using Airflow or similar tools.
-
-
-
-
-
+  
+## Dataset Source
+The dataset used for this project can be accessed via the following links:
+- [ Download zipped dataset (GitHub)](https://github.com/sulesatyam/Airbnb_Open_Data/raw/main/Airbnb_Open_Data.zip)  
+- [ Access full dataset (Google Drive)](https://drive.google.com/your-shareable-link)
 
 ## Contact
 
